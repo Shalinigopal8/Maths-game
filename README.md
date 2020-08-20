@@ -1,5 +1,4 @@
-Name: SHALINI GOPALAPPA
-SID: 217144842
+
 
 App title: StudyHUB
 
