@@ -1,0 +1,2525 @@
+@media screen and (min-width: 0px) and (max-width: 360px)
+{
+  body
+  {
+    background-image: url("images/toys.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #Addition
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:41%;
+    left:15%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Subtraction
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:41%;
+    left:13%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Multiplication
+  {
+    display:inline-block;
+    margin-left: 20%;
+    
+    position:relative;
+    top:41%;
+    
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Division
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:41%;
+    left:10%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Basic
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:32%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Intermediate
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:25%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Difficult
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:30%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  .add
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:300px;
+    right:5px;
+  }
+  .Num1
+  {
+    text-align: center;
+    font-size: 15px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:295px;
+    left:30px;
+  }
+  .addSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:246px;
+    right:35px;
+  }
+  .Num2
+  {
+    text-align: center;
+    font-size: 15px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:200px;
+    left:113px;
+  }
+  .equalSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:150px;
+    left:45px;
+  }
+  .result
+  {
+    text-align: center;
+    font-size: 15px;
+    color:red;
+    font-family: Georgia;
+    display:inline-block;
+    margin:10px;
+    width: 55px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top:329px;
+    left:200px;
+  }
+  .sub
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:300px;
+    right:5px;
+  }
+  .subSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:246px;
+    right:35px;
+  }
+  .product
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:300px;
+    right:5px;
+  }
+  .productSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:246px;
+    right:35px;
+  }
+  .division
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:300px;
+    right:5px;
+  }
+  .divisionSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:246px;
+    right:35px;
+  }
+  .options
+  {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: Georgia;
+    display:inline-block;
+    margin:5px;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    position: relative;
+    top:80px;
+    left:55px;
+    animation: mymove 10s infinite;
+  }
+
+  @keyframes mymove {
+    0%       { top:140px; }
+  25%, 75% { top:160px; }
+  50%      { top:160px; }
+  100%     {top:150px;}
+  }
+  .correctAnswer
+  {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: Georgia;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    border-radius: 50%;
+    width: 45px;
+    height: 25px;
+    position:relative;
+    bottom:15px;
+    left:5px;
+  }
+  .score
+  {
+    font-size: 15px;
+    color: #8B7355;
+    font-weight: bold;
+    font-family: Georgia;
+    position:relative;
+    top:17%;
+    left: 80%;
+  }
+  #next
+  {
+    display: block;
+    padding:10px;
+    margin:15px;
+    position:relative;
+    top:10%;
+    left:55%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 10px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #back
+  {
+    display: block;
+    padding:15px;
+    margin:15px;
+    position:relative;
+    top:50%;
+    left:40%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #levelComplete
+  {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 10px;
+    font-weight: bold;
+    color: #8B7355;
+    position:relative;
+    top:44%;
+    right:1%;
+  }
+  .win
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:10%;
+    animation: moves 10s infinite;
+  }
+  @keyframes moves {
+    0% {
+          bottom:0px;
+          animation-timing-function: ease-in;
+
+        }
+  100% {
+          bottom:400px;
+          animation-timing-function: ease-out;
+        }
+  }
+  .win1
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:25%;
+    animation: moves 10s infinite;
+  }
+
+}
+@media screen and (min-width: 361px) and (max-width: 450px)
+{
+  body
+  {
+    background-image: url("images/toys.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #Addition
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:36%;
+    left:18%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Subtraction
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:36%;
+    left:18%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Multiplication
+  {
+    display:inline-block;
+    padding:10px;
+    
+    position:relative;
+    top:40%;
+    
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Division
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:40%;
+    left: 13%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Basic
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:33%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Intermediate
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:27%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Difficult
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:31%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  .add
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:275px;
+    right:5px;
+  }
+  .Num1
+  {
+    text-align: center;
+    font-size: 15px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:285px;
+    left:70px;
+  }
+  .addSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:235px;
+    right:50px;
+  }
+  .Num2
+  {
+    text-align: center;
+    font-size: 15px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:190px;
+    left:160px;
+  }
+  .equalSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:140px;
+    left:40px;
+  }
+  .result
+  {
+    text-align: center;
+    font-size: 15px;
+    color:red;
+    font-family: Georgia;
+    display:inline-block;
+    margin:10px;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top:320px;
+    left:260px;
+  }
+  .sub
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:275px;
+    right:5px;
+  }
+  .subSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:235px;
+    right:50px;
+  }
+  .product
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:275px;
+    right:5px;
+  }
+  .productSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:235px;
+    right:50px;
+  }
+  .division
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:275px;
+    right:5px;
+  }
+  .divisionSymbol
+  {
+    text-align: center;
+    font-size: 25px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:235px;
+    right:50px;
+  }
+  .options
+  {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: Georgia;
+    display:inline-block;
+    margin:10px;
+    width: 45px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    position: relative;
+    top:80px;
+    left:85px;
+    animation: mymove 10s infinite;
+  }
+
+  @keyframes mymove {
+    0%       { top:120px; }
+  25%, 75% { top:130px; }
+  50%      { top:130px; }
+  100%     {top:150px;}
+  }
+  .correctAnswer
+  {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: Georgia;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    border-radius: 50%;
+    width: 45px;
+    height: 25px;
+    position:relative;
+    bottom:15px;
+    left:5px;
+  }
+  .score
+  {
+    font-size: 20px;
+    color: #8B7355;
+    font-weight: bold;
+    font-family: Georgia;
+    position:relative;
+    top:18%;
+    left: 80%;
+  }
+  #next
+  {
+    display: block;
+    padding:10px;
+    margin:15px;
+    position:relative;
+    top:10%;
+    left:55%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #back
+  {
+    display: block;
+    padding:15px;
+    margin:15px;
+    position:relative;
+    top:50%;
+    left:40%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #levelComplete
+  {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 15px;
+    font-weight: bold;
+    color: #8B7355;
+    position:relative;
+    top:40%;
+    right:1%;
+  }
+  .win
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:10%;
+    animation: moves 10s infinite;
+  }
+  @keyframes moves {
+    0% {
+          bottom:0px;
+          animation-timing-function: ease-in;
+
+        }
+  100% {
+          bottom:400px;
+          animation-timing-function: ease-out;
+        }
+  }
+  .win1
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:40%;
+    animation: moves 10s infinite;
+  }
+
+}
+@media screen and (min-width: 451px) and (max-width: 550px)
+{
+  body
+  {
+    background-image: url("images/toys.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #Addition
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:36%;
+    left:18%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Subtraction
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:36%;
+    left:20%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Multiplication
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:50%;
+    right:50%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Division
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left: 52%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Basic
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:42%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Intermediate
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:37%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Difficult
+  {
+    display:block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:38%;
+    left:41%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  .add
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:265px;
+    right:5px;
+  }
+  .Num1
+  {
+    text-align: center;
+    font-size: 18px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 50px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:280px;
+    left:90px;
+  }
+  .addSymbol
+  {
+    text-align: center;
+    font-size: 30px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:228px;
+    right:70px;
+  }
+  .Num2
+  {
+    text-align: center;
+    font-size: 18px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 50px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:175px;
+    left:180px;
+  }
+  .equalSymbol
+  {
+    text-align: center;
+    font-size: 30px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:125px;
+    left:22px;
+  }
+  .result
+  {
+    text-align: center;
+    font-size: 15px;
+    color:red;
+    font-family: Georgia;
+    display:inline-block;
+    margin:10px;
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top:324px;
+    left:285px;
+  }
+  .sub
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:265px;
+    right:5px;
+  }
+  .subSymbol
+  {
+    text-align: center;
+    font-size: 30px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:228px;
+    right:70px;
+  }
+  .product
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:265px;
+    right:5px;
+  }
+  .productSymbol
+  {
+    text-align: center;
+    font-size: 30px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:228px;
+    right:70px;
+  }
+  .division
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:265px;
+    right:5px;
+  }
+  .divisionSymbol
+  {
+    text-align: center;
+    font-size: 30px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:228px;
+    right:70px;
+  }
+  .options
+  {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: Georgia;
+    display:inline-block;
+    margin:20px;
+    width: 50px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    position: relative;
+    top:80px;
+    left:100px;
+    animation: mymove 10s infinite;
+  }
+
+  @keyframes mymove {
+    0%       { top:120px; }
+  25%, 75% { top:110px; }
+  50%      { top:110px; }
+  100%     {top:140px;}
+  }
+  .correctAnswer
+  {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: Georgia;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    border-radius: 50%;
+    width: 50px;
+    height: 30px;
+    position:relative;
+    bottom:15px;
+    left:6px;
+  }
+  .score
+  {
+    font-size: 22px;
+    color: #8B7355;
+    font-weight: bold;
+    font-family: Georgia;
+    position:relative;
+    top:12%;
+    left: 80%;
+  }
+  #next
+  {
+    display: block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:5%;
+    left:55%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #back
+  {
+    display: block;
+    padding:15px;
+    margin:15px;
+    position:relative;
+    top:50%;
+    left:40%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #levelComplete
+  {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 20px;
+    font-weight: bold;
+    color: #8B7355;
+    position:relative;
+    top:40%;
+    right:1%;
+  }
+  .win
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:15%;
+    animation: moves 10s infinite;
+  }
+  @keyframes moves {
+    0% {
+          bottom:0px;
+          animation-timing-function: ease-in;
+
+        }
+  100% {
+          bottom:400px;
+          animation-timing-function: ease-out;
+        }
+  }
+  .win1
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:50%;
+    animation: moves 10s infinite;
+  }
+
+
+}
+@media screen and (min-width: 551px) and (max-width: 700px)
+{
+  body
+  {
+    background-image: url("images/toys.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #Addition
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:36%;
+    left:23%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    font-family: Georgia;
+  }
+  #Subtraction
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:36%;
+    left:27%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Multiplication
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:52%;
+    right:30%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Division
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    position:relative;
+    top:52%;
+    right:25%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Basic
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    position:relative;
+    top:38%;
+    left:40%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Intermediate
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    position:relative;
+    top:38%;
+    left:35%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Difficult
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    position:relative;
+    top:38%;
+    left:38%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  .add
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:250px;
+    right:5px;
+  }
+  .Num1
+  {
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 65px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:270px;
+    left:100px;
+  }
+  .addSymbol
+  {
+    text-align: center;
+    font-size: 35px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:211px;
+    right:100px;
+  }
+  .Num2
+  {
+    text-align: center;
+    font-size: 25px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 65px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:152px;
+    left:222px;
+  }
+  .equalSymbol
+  {
+    text-align: center;
+    font-size: 35px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:98px;
+    left:22px;
+  }
+  .result
+  {
+    text-align: center;
+    font-size: 25px;
+    color:red;
+    font-family: Georgia;
+    display:inline-block;
+    margin:10px;
+    width: 75px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top:320px;
+    left:360px;
+  }
+  .sub
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:250px;
+    right:5px;
+  }
+  .subSymbol
+  {
+    text-align: center;
+    font-size: 35px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:211px;
+    right:100px;
+  }
+  .product
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:250px;
+    right:5px;
+  }
+  .productSymbol
+  {
+    text-align: center;
+    font-size: 35px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:211px;
+    right:100px;
+  }
+  .division
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:250px;
+    right:5px;
+  }
+  .divisionSymbol
+  {
+    text-align: center;
+    font-size: 35px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:211px;
+    right:100px;
+  }
+  .options
+  {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: Georgia;
+    display:inline-block;
+    margin:20px;
+    width: 65px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    position: relative;
+    top:80px;
+    left:150px;
+    animation: mymove 10s infinite;
+  }
+
+  @keyframes mymove {
+    0%       { top:120px; }
+  25%, 75% { top:90px; }
+  50%      { top:90px; }
+  100%     {top:140px;}
+  }
+  .correctAnswer
+  {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-family: Georgia;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    border-radius: 50%;
+    width: 65px;
+    height: 35px;
+    position:relative;
+    bottom:22px;
+    left:8px;
+  }
+  .score
+  {
+    font-size: 23px;
+    color: #8B7355;
+    font-weight: bold;
+    font-family: Georgia;
+    position:relative;
+    top:10%;
+    left: 80%;
+  }
+  #next
+  {
+    display: block;
+    padding:15px;
+    margin:15px;
+    position:relative;
+    top:1%;
+    left:60%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #back
+  {
+    display: block;
+    padding:20px;
+    margin:20px;
+    position:relative;
+    top:50%;
+    left:40%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #levelComplete
+  {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 25px;
+    font-weight: bold;
+    color: #8B7355;
+    position:relative;
+    top:40%;
+    right:1%;
+  }
+  .win
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:15%;
+    animation: moves 10s infinite;
+  }
+  @keyframes moves {
+    0% {
+          bottom:0px;
+          animation-timing-function: ease-in;
+
+        }
+  100% {
+          bottom:400px;
+          animation-timing-function: ease-out;
+        }
+  }
+  .win1
+  {
+    height:300px;
+    position:relative;
+    bottom:0px;
+    left:55%;
+    animation: moves 10s infinite;
+  }
+
+}
+@media screen and (min-width: 701px) and (max-width: 1024px)
+{
+  body
+  {
+    background-image: url("images/toys.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #Addition
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width:150px;
+    height: 150px;
+    position:relative;
+    top:25%;
+    left:28%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Subtraction
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width:150px;
+    height:150px;
+    position:relative;
+    top:25%;
+    left:35%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Multiplication
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width:165px;
+    height:160px;
+    position:relative;
+    top:55%;
+    right:8%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Division
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width: 150px;
+    height: 150px;
+    position:relative;
+    top:55%;
+    right:1%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Basic
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    width:100px;
+    height:100px;
+    position:relative;
+    top:30%;
+    left:45%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Intermediate
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    width:185px;
+    height:110px;
+    position:relative;
+    top:33%;
+    left:42%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Difficult
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    width:125px;
+    height:100px;
+    position:relative;
+    top:35%;
+    left:44%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  .add
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:200px;
+    right:7px;
+  }
+  .Num1
+  {
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 90px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:232px;
+    left:180px;
+  }
+  .addSymbol
+  {
+    text-align: center;
+    font-size: 40px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:160px;
+    right:140px;
+  }
+  .Num2
+  {
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 90px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:93px;
+    left:360px;
+  }
+  .equalSymbol
+  {
+    text-align: center;
+    font-size: 40px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:20px;
+    left:45px;
+  }
+  .result
+  {
+    text-align: center;
+    font-size: 30px;
+    color:red;
+    font-family: Georgia;
+    display:inline-block;
+    margin:10px;
+    width: 110px;
+    height: 70px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top:290px;
+    left:550px;
+  }
+  .sub
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:200px;
+    right:7px;
+  }
+  .subSymbol
+  {
+    text-align: center;
+    font-size: 40px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:160px;
+    right:140px;
+  }
+  .product
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:200px;
+    right:7px;
+  }
+  .productSymbol
+  {
+    text-align: center;
+    font-size: 40px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:160px;
+    right:140px;
+  }
+  .division
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:200px;
+    right:7px;
+  }
+  .divisionSymbol
+  {
+    text-align: center;
+    font-size: 40px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:160px;
+    right:140px;
+  }
+  .options
+  {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: Georgia;
+    display:inline-block;
+    margin:20px;
+    width: 90px;
+    height: 55px;
+    border-radius: 50%;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    position: relative;
+    top:80px;
+    left:250px;
+    animation: mymove 10s infinite;
+  }
+
+  @keyframes mymove {
+    0%       { top:100px; }
+  25%, 75% { top:80px; }
+  50%      { top:30px; }
+  100%     {top:140px;}
+  }
+  .correctAnswer
+  {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: Georgia;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    border-radius: 50%;
+    width: 90px;
+    height: 55px;
+    position:relative;
+    bottom:20px;
+    left:10px;
+  }
+  .score
+  {
+    font-size: 28px;
+    color: #8B7355;
+    font-weight: bold;
+    font-family: Georgia;
+    position:relative;
+    top:10%;
+    left: 85%;
+  }
+  #next
+  {
+    display: block;
+    padding:20px;
+    margin:20px;
+    position:relative;
+    top:1%;
+    left:60%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #back
+  {
+    display: block;
+    padding:20px;
+    margin:20px;
+    position:relative;
+    top:60%;
+    left:45%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #levelComplete
+  {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 40px;
+    font-weight: bold;
+    color: #8B7355;
+    position:relative;
+    top:30%;
+    right:1%;
+  }
+  .win
+  {
+    height:500px;
+    position:relative;
+    bottom:0px;
+    left:15%;
+    animation: moves 10s infinite;
+  }
+  @keyframes moves {
+    0% {
+          bottom:0px;
+          animation-timing-function: ease-in;
+
+        }
+  100% {
+          bottom:400px;
+          animation-timing-function: ease-out;
+        }
+  }
+  .win1
+  {
+    height:500px;
+    position:relative;
+    bottom:0px;
+    left:55%;
+    animation: moves 10s infinite;
+  }
+
+
+}
+@media screen and (min-width: 1025px)
+{
+  body
+  {
+    background-image: url("images/toys.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #Addition
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width:150px;
+    height: 150px;
+    position:relative;
+    top:27%;
+    left:36%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Subtraction
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width:150px;
+    height:150px;
+    position:relative;
+    top:27%;
+    left:39%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Multiplication
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width:165px;
+    height:165px;
+    position:relative;
+    top:55%;
+    left:10%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Division
+  {
+    display:inline-block;
+    padding:10px;
+    margin:10px;
+    width: 150px;
+    height: 150px;
+    position:relative;
+    top:55%;
+    left:13%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Basic
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    width:100px;
+    height:100px;
+    position:relative;
+    top:28%;
+    left:46%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Intermediate
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    width:190px;
+    height:110px;
+    position:relative;
+    top:33%;
+    left:44%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  #Difficult
+  {
+    display:block;
+    padding:10px;
+    margin:15px;
+    width:130px;
+    height:100px;
+    position:relative;
+    top:37%;
+    left:46%;
+    text-align: center;
+    background-color: #8B7355;
+    border-color: #8B7355;
+    border-style: groove;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia;
+  }
+  .add
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:160px;
+    right:7px;
+  }
+  .Num1
+  {
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 90px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:232px;
+    left:510px;
+  }
+  .addSymbol
+  {
+    text-align: center;
+    font-size: 50px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:150px;
+    right:20px;
+  }
+  .Num2
+  {
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    font-family: Georgia;
+    display:inline-block;
+    margin: 10px;
+    border: 1px solid #CDAA7D;
+    width: 90px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: #CDAA7D;
+    position: relative;
+    top:80px;
+    left:700px;
+  }
+  .equalSymbol
+  {
+    text-align: center;
+    font-size: 50px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:5px;
+    left:170px;
+  }
+  .result
+  {
+    text-align: center;
+    font-size: 30px;
+    color:red;
+    font-family: Georgia;
+    display:inline-block;
+    margin:10px;
+    width: 110px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top:280px;
+    left:900px;
+  }
+  .sub
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:160px;
+    right:3px;
+  }
+  .subSymbol
+  {
+    text-align: center;
+    font-size: 50px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:150px;
+    right:20px;
+  }
+  .product
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:160px;
+    right:7px;
+  }
+  .productSymbol
+  {
+    text-align: center;
+    font-size: 50px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:160px;
+    right:20px;
+  }
+  .division
+  {
+
+    text-align: center;
+    color: #8B7355;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Georgia;
+    margin:10px;
+    position:relative;
+    top:160px;
+    right:7px;
+  }
+  .divisionSymbol
+  {
+    text-align: center;
+    font-size: 50px;
+    color: #8B7355;
+    font-weight: bold;
+    margin: 10px;
+    position:relative;
+    top:150px;
+    right:20px;
+  }
+  .options
+  {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: Georgia;
+    display:inline-block;
+    margin:20px;
+    width: 90px;
+    height: 55px;
+    border-radius: 50%;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    position: relative;
+    top:80px;
+    left:600px;
+    animation: mymove 10s infinite;
+  }
+
+  @keyframes mymove {
+    0%       { top:100px; }
+  25%, 75% { top:80px; }
+  50%      { top:30px; }
+  100%     {top:140px;}
+  }
+  .correctAnswer
+  {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: Georgia;
+    border: 1px solid #CDAA7D;
+    background-color: #CDAA7D;
+    border-radius: 50%;
+    width: 90px;
+    height: 55px;
+    position:relative;
+    bottom:20px;
+    left:10px;
+  }
+  .score
+  {
+    font-size: 28px;
+    color: #8B7355;
+    font-weight: bold;
+    font-family: Georgia;
+    position:relative;
+    top:10%;
+    left: 80%;
+  }
+  #next
+  {
+    display: block;
+    padding:20px;
+    margin:20px;
+    position:relative;
+    top:2%;
+    left:60%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #back
+  {
+    display: block;
+    padding:20px;
+    margin:20px;
+    position:relative;
+    top:60%;
+    left:45%;
+    text-align: center;
+    background-color: #8B7355;
+    border-style: groove;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    color: white;
+  }
+  #levelComplete
+  {
+    text-align: center;
+    font-family: Georgia;
+    font-size: 40px;
+    font-weight: bold;
+    color: #8B7355;
+    position:relative;
+    top:30%;
+    right:1%;
+  }
+  .win
+  {
+    height:500px;
+    position:relative;
+    bottom:0px;
+    left:15%;
+    animation: moves 10s infinite;
+  }
+  @keyframes moves {
+    0% {
+          bottom:0px;
+          animation-timing-function: ease-in;
+
+        }
+  100% {
+          bottom:400px;
+          animation-timing-function: ease-out;
+        }
+  }
+  .win1
+  {
+    height:500px;
+    position:relative;
+    bottom:0px;
+    left:55%;
+    animation: moves 10s infinite;
+  }
+}

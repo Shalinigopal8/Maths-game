@@ -1,0 +1,59 @@
+Week 3:
+During this week, I created the relevant folders which were required for my app.
+
+Week 4:
+During this week, I created the buttons (i.e., addition, subtraction, multiplication and division)
+which should appear on my first page of the app.
+
+Still Working on features:
+Creating buttons for different level options.
+
+Week 5:
+1. Created buttons for different level options.
+2. Created basic and intermediate level addition questions.
+
+Still working on features:
+1. Creating difficult level addition questions.
+2. Creating options for the generated questions so that the player can choose one of the option
+as the answer for the given question.
+
+Week 6:
+1. Created difficult level addition questions.
+2. Created options for the given questions.
+3. Created drag and drop feature for the options so that the player can drag the answer from one
+of the options and drop it into the result element.
+4. Created basic, intermediate and difficult level subtraction questions along with the options.
+
+Still working on features:
+1. Creating questions for multiplication and division operations.
+2. Program to shuffle the options so that whenever a new question is generated, new set of
+options appear on the screen.
+
+Week 7:
+1. Created questions for multiplication and division operations.
+2. Completed the program for shuffling the options each time a question is generated.
+3. Started working on styling the app.
+
+Still working features:
+1. Styling the app.
+2. Creating a function to generate next question on a button click.
+3. Creating responsive web designs.
+
+Week 8:
+1. Created function to generate next question on a button click.
+2. Started working on responsive web designs and overall design of the app.
+
+Still working on features:
+1. Responsive web design
+2. Overall design of the app.
+
+Week 9:
+1. Created responsive web design.
+2. Started working on CSS animations.
+
+Still working on features:
+1. Designing the app.
+2. Game-won or level-complete feature.
+
+Week 10:
+Completed the overall design and added game-won feature.
